@@ -1,0 +1,17 @@
+Debug/
+Release/
+build/
+archive/
+ARDUINO_LCD_TEST/
+.metadata/
+.headless-workspace/
+.settings/*.store.json
+*.o
+*.su
+*.cyclo
+*.d
+*.elf
+*.map
+*.list
+*.bin
+*.hex
